@@ -1,0 +1,3 @@
+./ns.sh ;#run 
+./clean.sh ;#clean
+./gnuplot.sh ;#graph diagrams from generated output files
